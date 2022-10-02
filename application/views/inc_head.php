@@ -18,6 +18,8 @@ defined('BASEPATH') OR exit('No direct script access allowed');
   <link rel="stylesheet" href="<?php echo base_url(); ?>adminlte/plugins/datatables-buttons/css/buttons.bootstrap4.min.css">
   <!-- Theme style -->
   <link rel="stylesheet" href="<?php echo base_url(); ?>adminlte/dist/css/adminlte.min.css">
+  <!--Fuentes Gfonts-->
+  <link rel="stylesheet" href="<?php echo base_url(); ?>adminlte/dist/css/fuentes.css">
 </head>
 <body class="hold-transition sidebar-mini">
 <div class="wrapper">

@@ -408,23 +408,25 @@
                 <i class="fas fa-angle-left right"></i>
               </p>
             </a>
+           
+
             <ul class="nav nav-treeview">
-              <li class="nav-item">
-                <a href="../tables/simple.html" class="nav-link">
+              <li class="nav-item"> 
+                <a href="<?php echo base_url(); ?>index.php/conductor/viewMaps" class="nav-link">
                   <i class="far fa-circle nav-icon"></i>
-                  <p>Simple Tables</p>
+                  <p>GOOGLE MAPS</p>
                 </a>
               </li>
               <li class="nav-item">
-                <a href="../tables/data.html" class="nav-link active">
+                <a href="<?php echo base_url(); ?>index.php/conductor/test" class="nav-link active">
                   <i class="far fa-circle nav-icon"></i>
-                  <p>DataTables</p>
+                  <p>GOOGLE FONTS</p>
                 </a>
               </li>
               <li class="nav-item">
                 <a href="../tables/jsgrid.html" class="nav-link">
                   <i class="far fa-circle nav-icon"></i>
-                  <p>jsGrid</p>
+                  <p>FACEBOOK</p>
                 </a>
               </li>
             </ul>
